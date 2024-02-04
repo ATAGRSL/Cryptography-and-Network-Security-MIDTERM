@@ -1,0 +1,5 @@
+Gerekli olan modül
+
+pip install cryptography
+
+Herhangi bir dosyayı şifrelemek veya çözmek için dosyanın tam adını girmeniz gerekiyor örneğin a.txt (uzantısı dahil)
